@@ -742,7 +742,7 @@ _Ordered by the number of GitHub stars. Products with fewer than 100 stars conti
 -  [Wontopos (Tablet 2)](https://wontopos.com/)
    [[paper](https://arxiv.org/abs/2608.23920)]
    [[eval](https://github.com/wontopos/beam1m-tablet-2)]
-   _Managed long-term memory API with no LLM in the retrieval path; paper-reported 95.2% mean recall@5 across 70 store-and-query language pairs._
+   _Memory API, no language model in the retrieval path; paper-reported 95.7% LongMemEval-S and 95.2% recall@5 over 70 language pairs; BEAM-1M 67.5% with harness and per-question records published._
 
 ### Archival
 
